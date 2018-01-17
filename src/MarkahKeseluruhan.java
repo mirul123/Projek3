@@ -15,7 +15,7 @@ public static void main (String[]args){
     int fop=87;
     int coa=90;
     int wp=68;
-    int si=50;
+    int si=60;
     int jumlah=fop+coa+wp+si;
     int purata=fop+coa+wp+si/4;
     
